@@ -1,4 +1,4 @@
-Astrogallery build code for astroterraza.sjurado.eu
+Astrogallery build code for [astroterraza.sjurado.eu]
 
 **themes** has to be copied on local python-packages sigal directory.
 
